@@ -30,10 +30,10 @@ public class ZeldaArmor extends ZeldaItem {
         map.put("typeid",typeid);
 //        map.put("id", id);
 //        map.put("name", name);
-//        map.put("image", image);
+        map.put("image", image);
 //        map.put("defense", defense);
 //        map.put("effect", effect);
-//        map.put("description",description);
+        map.put("description",description);
 //        map.put("typeid",typeid);
 
         return map;

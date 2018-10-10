@@ -129,12 +129,23 @@ public class ElasticSearchDaoImpl implements ElasticSearchDao {
 	}
 
 	@Override
-	public ZeldaTemple saveTemple(ZeldaTemple zeldaTemple) {
+	public ZeldaTemple saveTemple(ZeldaTemple zeldaTemple,boolean isTemple) {
 
 		BulkRequestBuilder bulkRequestBuilder = transportClient.prepareBulk();
 
 		Map tmp = zeldaTemple.toMap();
-		tmp.put("type","principleline");
+		String type = "";
+		String image = "";
+		if (isTemple){
+			type = "temple";
+			image =  "https://gamepedia-1257100500.cos.ap-shanghai.myqcloud.com/temple.jpg";
+		}else{
+			type = "principleline";
+			image =  "https://gamepedia-1257100500.cos.ap-shanghai.myqcloud.com/principleline.jpeg";
+		}
+		tmp.put("type",type);
+		tmp.put("image", image);
+
 		IndexRequest indexRequest = transportClient.prepareIndex(gameContentIndex,gameContentType,zeldaTemple.getTypeid().toString()).setSource(tmp).request();
 		bulkRequestBuilder.add(indexRequest);
 		BulkResponse bulkResponse = bulkRequestBuilder.execute().actionGet();
@@ -147,7 +158,7 @@ public class ElasticSearchDaoImpl implements ElasticSearchDao {
 	}
 
 
-	public void saveType(String type,Object object) {
+	public Boolean saveType(String type,Object object) {
 
 
 
@@ -194,8 +205,10 @@ public class ElasticSearchDaoImpl implements ElasticSearchDao {
 		BulkResponse bulkResponse = bulkRequestBuilder.execute().actionGet();
 		if (bulkResponse.hasFailures()) {
 			System.out.println("批量创建索引错误！");
+			return false;
 		}
 		System.out.println("批量创建索引成功");
+		return true;
 
 	}
 

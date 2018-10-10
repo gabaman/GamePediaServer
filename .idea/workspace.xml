@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a72c64e1-6109-455b-9fa9-e52a58799b38" name="Default" comment="" />
+    <list default="true" id="a72c64e1-6109-455b-9fa9-e52a58799b38" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/ConsoleController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ConsoleUpdater.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/FinderModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ConsoleService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ScriptService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/utils/COSClientUtil.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/com_stan_gamepedia_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/com_stan_gamepedia_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/com.stan.gamepedia.iml" afterPath="$PROJECT_DIR$/com.stan.gamepedia.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/GamePediaApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/GamePediaApplication.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/ElasticSearchDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/ElasticSearchDao.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/impl/ElasticSearchDaoImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/impl/ElasticSearchDaoImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaFood.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaFood.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaMaterial.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaMaterial.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaShield.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaShield.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaWeapon.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaWeapon.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ESTest.java" afterPath="$PROJECT_DIR$/src/test/java/ESTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
+      <change beforePath="$PROJECT_DIR$/target/com.stan.gamepedia-1.0-SNAPSHOT.war.original" afterPath="$PROJECT_DIR$/target/com.stan.gamepedia-1.0-SNAPSHOT.war.original" />
+      <change beforePath="$PROJECT_DIR$/target/com.stan.gamepedia-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/com.stan.gamepedia-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/com.stan.gamepedia-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ESTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/ESTest.txt" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ESTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ESTest.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,33 +47,120 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/com_stan_gamepedia$ESTest_downloadPicture.coverage" NAME="ESTest.downloadPicture Coverage Results" MODIFIED="1537695433306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameContentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-319">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameContentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsoleController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/ConsoleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-215">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="161" column="21" lean-forward="false" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GamePediaApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GamePediaApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/GamePediaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="127">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gamepedia.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gamepedia.iml">
+      <file leaf-file-name="GameContentServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="194">
+              <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1363#1364#0" expanded="true" />
+                <element signature="e#1415#1416#0" expanded="true" />
+                <element signature="e#11132#11133#0" expanded="true" />
+                <element signature="e#11159#11160#0" expanded="true" />
+                <element signature="e#12717#12718#0" expanded="true" />
+                <element signature="e#12786#12787#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/GameContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="COSClientUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/utils/COSClientUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="948">
+              <caret line="195" column="70" lean-forward="false" selection-start-line="195" selection-start-column="70" selection-end-line="195" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsoleService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ConsoleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="816" column="8" lean-forward="false" selection-start-line="816" selection-start-column="8" selection-end-line="816" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsoleUpdater.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ConsoleUpdater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -44,12 +168,78 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pro</find>
+      <find>getallt</find>
+      <find>typeid</find>
+      <find>gettem</find>
+      <find>getPicOneTemple</find>
+      <find>getContentList</find>
+      <find>getalltempl</find>
+      <find>getpicone</find>
+      <find>getpiconeTem</find>
+      <find>compile</find>
+      <find>js</find>
+      <find>comp</find>
+      <find>provide</find>
+      <find>getTempleByTypeId</find>
+      <find>temple</find>
+      <find>savete</find>
+      <find>10001</find>
+      <find>getitem</find>
+      <find>saveItem</find>
+      <find>uploadFile2Cos</find>
+      <find>io</find>
+      <find>commons-io</find>
+      <find>getZeldaItem</find>
+      <find>fileNamefileName</find>
+      <find>exa</find>
+      <find>findTypeId</find>
+      <find>gameContent</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaContent.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ScriptService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/FinderModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaFood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaMaterial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaShield.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ConsoleUpdater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaWeapon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/ElasticSearchDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/impl/ElasticSearchDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ESTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/GamePediaApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/utils/COSClientUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/ConsoleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ConsoleService.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -65,10 +255,32 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.stan.gamepedia" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.stan.gamepedia" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.stan.gamepedia" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="-22" />
+    <option name="y" value="28" />
     <option name="width" value="1440" />
-    <option name="height" value="829" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -86,8 +298,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,12 +335,60 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gamepedia" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="com.stan.gamepedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GamePediaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamepedia" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.stan.gamepedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GamePediaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamepedia" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.stan.gamepedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GamePediaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamepedia" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.stan.gamepedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GamePediaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamepedia" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.stan.gamepedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GamePediaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gamepedia" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.stan.gamepedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,6 +396,13 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="mave&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;mav&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +416,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ESTest.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -168,6 +437,106 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="ESTest.downloadItemPic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="com.stan.gamepedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ESTest" />
+      <option name="METHOD_NAME" value="downloadItemPic" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ESTest.downloadPicture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="com.stan.gamepedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ESTest" />
+      <option name="METHOD_NAME" value="downloadPicture" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ESTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="com.stan.gamepedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ESTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ESTest.testSaveAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="com.stan.gamepedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ESTest" />
+      <option name="METHOD_NAME" value="testSaveAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ESTest.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="com.stan.gamepedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ESTest" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -235,6 +604,23 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.GamePediaApplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ESTest.testSaveAll" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ESTest.testUpload" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ESTest.downloadPicture" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ESTest.downloadItemPic" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ESTest.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ESTest.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ESTest.downloadItemPic" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ESTest.testUpload" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ESTest.downloadPicture" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ESTest.testSaveAll" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -249,47 +635,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536732868723</updated>
-      <workItem from="1536732870147" duration="80000" />
+      <workItem from="1536732870147" duration="16546000" />
+      <workItem from="1538366453906" duration="437000" />
+      <workItem from="1538373089362" duration="38076000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ESTest_test - 2018.10.01 at 14h 20m 25s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_test - 2018.10.01 at 14h 22m 12s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_test - 2018.10.05 at 17h 15m 48s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_test - 2018.10.05 at 17h 21m 31s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_test - 2018.10.05 at 17h 23m 14s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_test - 2018.10.07 at 15h 30m 07s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_test - 2018.10.08 at 00h 12m 14s.xml">
+      <configuration name="ESTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_testUpload - 2018.09.23 at 15h 13m 26s.xml">
+      <configuration name="ESTest.testUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_testUpload - 2018.09.23 at 15h 14m 46s.xml">
+      <configuration name="ESTest.testUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ESTest_testUpload - 2018.09.23 at 17h 39m 46s.xml">
+      <configuration name="ESTest.testUpload" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80000" />
+    <option name="totallyTimeSpent" value="55059000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
+    <frame x="-22" y="28" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25069445" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42629483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49113923" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50886077" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,31 +721,1667 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="90" column="77" lean-forward="false" selection-start-line="90" selection-start-column="67" selection-end-line="90" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4680">
+          <caret line="323" column="13" lean-forward="false" selection-start-line="323" selection-start-column="13" selection-end-line="323" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#11132#11133#0" expanded="true" />
+            <element signature="e#11159#11160#0" expanded="true" />
+            <element signature="e#12717#12718#0" expanded="true" />
+            <element signature="e#12786#12787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#221#222#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#280#281#0" expanded="false" />
+            <element signature="e#308#309#0" expanded="false" />
+            <element signature="e#339#340#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
+            <element signature="e#438#439#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#540#541#0" expanded="false" />
+            <element signature="e#574#575#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#646#647#0" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#746#747#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#808#809#0" expanded="false" />
+            <element signature="e#852#853#0" expanded="false" />
+            <element signature="e#888#889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/GameDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="199" column="15" lean-forward="false" selection-start-line="156" selection-start-column="9" selection-end-line="199" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="199" column="15" lean-forward="true" selection-start-line="156" selection-start-column="9" selection-end-line="199" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#221#222#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#280#281#0" expanded="false" />
+            <element signature="e#308#309#0" expanded="false" />
+            <element signature="e#339#340#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
+            <element signature="e#438#439#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#540#541#0" expanded="false" />
+            <element signature="e#574#575#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#646#647#0" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#746#747#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#808#809#0" expanded="false" />
+            <element signature="e#852#853#0" expanded="false" />
+            <element signature="e#888#889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/GameDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gamepedia.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#221#222#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#280#281#0" expanded="false" />
+            <element signature="e#308#309#0" expanded="false" />
+            <element signature="e#339#340#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
+            <element signature="e#438#439#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#540#541#0" expanded="false" />
+            <element signature="e#574#575#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#646#647#0" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#746#747#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#808#809#0" expanded="false" />
+            <element signature="e#852#853#0" expanded="false" />
+            <element signature="e#888#889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/GPResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/GameDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaTemple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/FinderModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaWeapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#2547#2548#0" expanded="false" />
+            <element signature="e#2593#2594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ZeldaShield.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ScriptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/ElasticSearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/dao/impl/ElasticSearchDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="210" column="20" lean-forward="false" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="7213.355902146463" y="980.0">com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT</node>
+            <node x="8286.230902146464" y="610.0">junit:junit:jar:4.12</node>
+            <node x="8337.230902146464" y="500.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="7241.355902146463" y="300.0">org.springframework:spring-jdbc:jar:4.3.13.RELEASE</node>
+            <node x="6402.87823728355" y="120.0">org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE</node>
+            <node x="6620.197966540403" y="0.0">org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE</node>
+            <node x="7248.355902146463" y="210.0">org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE</node>
+            <node x="8861.730902146464" y="810.0">org.springframework:spring-aspects:jar:4.3.13.RELEASE</node>
+            <node x="8864.730902146464" y="610.0">org.springframework:spring-aspects:jar:4.3.13.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13</node>
+            <node x="6105.105902146463" y="810.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE</node>
+            <node x="6835.6131314033155" y="610.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE</node>
+            <node x="7039.355902146463" y="400.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE</node>
+            <node x="6599.605902146463" y="500.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE</node>
+            <node x="6835.355902146463" y="400.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+            <node x="6874.605902146463" y="300.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+            <node x="6584.355902146463" y="400.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="6716.355902146463" y="400.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="6366.043402146463" y="400.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="6334.044903950217" y="610.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
+            <node x="6462.605902146463" y="500.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="6323.605902146463" y="500.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
+            <node x="6208.605902146463" y="500.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="4353.689037968974" y="610.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10</node>
+            <node x="4378.939037968974" y="500.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="6120.105902146463" y="400.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE</node>
+            <node x="6090.355902146463" y="210.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE</node>
+            <node x="6278.043402146463" y="300.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE</node>
+            <node x="6015.510466540403" y="500.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE</node>
+            <node x="5803.7381314033155" y="210.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE</node>
+            <node x="7252.355902146463" y="810.0">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE</node>
+            <node x="7356.355902146463" y="610.0">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23</node>
+            <node x="7360.855902146463" y="500.0">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23/org.apache.tomcat:tomcat-juli:jar:8.5.23</node>
+            <node x="9190.341152236651" y="810.0">org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE</node>
+            <node x="9180.909343524529" y="500.0">org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23</node>
+            <node x="9168.909343524529" y="400.0">org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23/org.apache.tomcat:tomcat-annotations-api:jar:8.5.23</node>
+            <node x="9221.730902146464" y="610.0">org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.23</node>
+            <node x="9005.730902146464" y="610.0">org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.23</node>
+            <node x="6596.918402146463" y="810.0">com.alibaba:druid-spring-boot-starter:jar:1.1.6</node>
+            <node x="6626.482440115438" y="610.0">com.alibaba:druid-spring-boot-starter:jar:1.1.6/com.alibaba:druid:jar:1.1.6</node>
+            <node x="7030.355902146463" y="500.0">com.alibaba:druid-spring-boot-starter:jar:1.1.6/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE</node>
+            <node x="8030.230902146463" y="810.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE</node>
+            <node x="7623.730902146463" y="500.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE</node>
+            <node x="7485.355902146463" y="610.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE</node>
+            <node x="7764.730902146463" y="610.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0</node>
+            <node x="7800.730902146463" y="500.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1</node>
+            <node x="7782.730902146463" y="400.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1</node>
+            <node x="7821.730902146463" y="300.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3</node>
+            <node x="6599.8631314033155" y="300.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="7878.730902146463" y="610.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.assertj:assertj-core:jar:2.6.0</node>
+            <node x="8150.230902146463" y="610.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="8133.230902146463" y="500.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="8367.230902146464" y="610.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="8006.730902146463" y="610.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0</node>
+            <node x="7999.230902146463" y="500.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="8479.730902146464" y="120.0">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE</node>
+            <node x="8541.730902146464" y="610.0">org.apache.logging.log4j:log4j-api:jar:2.7</node>
+            <node x="8507.730902146464" y="810.0">org.apache.logging.log4j:log4j-core:jar:2.7</node>
+            <node x="3936.8559021464634" y="810.0">com.qcloud:cos_api:jar:5.4.5</node>
+            <node x="3724.25" y="400.0">com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3</node>
+            <node x="3935.1282734487713" y="300.0">com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3/org.apache.httpcomponents:httpcore:jar:4.4.8</node>
+            <node x="3894.375" y="610.0">com.qcloud:cos_api:jar:5.4.5/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="3896.125" y="500.0">com.qcloud:cos_api:jar:5.4.5/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17</node>
+            <node x="3837.25" y="400.0">com.qcloud:cos_api:jar:5.4.5/commons-codec:commons-codec:jar:1.10</node>
+            <node x="3645.0" y="610.0">com.qcloud:cos_api:jar:5.4.5/joda-time:joda-time:jar:2.9.9</node>
+            <node x="4064.6890379689744" y="610.0">com.qcloud:cos_api:jar:5.4.5/org.bouncycastle:bcprov-jdk15on:jar:1.59</node>
+            <node x="9683.230902146464" y="810.0">commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="9707.730902146464" y="610.0">commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+            <node x="1241.9809021464634" y="810.0">net.java.dev.jna:jna:jar:4.2.2</node>
+            <node x="5355.855902146463" y="810.0">org.elasticsearch.client:transport:jar:5.4.0</node>
+            <node x="5799.510466540403" y="610.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch:elasticsearch:jar:2.4.6</node>
+            <node x="4514.689037968974" y="610.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty3-client:jar:5.4.0</node>
+            <node x="4570.189037968974" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty3-client:jar:5.4.0/io.netty:netty:jar:3.10.6.Final</node>
+            <node x="5034.855902146463" y="610.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0</node>
+            <node x="4951.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-buffer:jar:4.1.9.Final</node>
+            <node x="5525.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-codec:jar:4.1.9.Final</node>
+            <node x="5219.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-codec-http:jar:4.1.9.Final</node>
+            <node x="5380.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-common:jar:4.1.9.Final</node>
+            <node x="5081.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-handler:jar:4.1.9.Final</node>
+            <node x="4660.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-resolver:jar:4.1.9.Final</node>
+            <node x="4801.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-transport:jar:4.1.9.Final</node>
+            <node x="4215.689037968974" y="610.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0</node>
+            <node x="4245.689037968974" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0</node>
+            <node x="4132.375" y="400.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0/org.apache.httpcomponents:httpasyncclient:jar:4.1.3</node>
+            <node x="4375.973475378789" y="400.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0/org.apache.httpcomponents:httpcore-nio:jar:4.4.5</node>
+            <node x="4507.973475378789" y="400.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="5614.510466540403" y="610.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:lang-mustache-client:jar:5.4.0</node>
+            <node x="5654.010466540403" y="500.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:lang-mustache-client:jar:5.4.0/com.github.spullara.mustache.java:compiler:jar:0.9.3</node>
+            <node x="5933.510466540403" y="610.0">org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:percolator-client:jar:5.4.0</node>
+            <node x="1649.9809021464634" y="810.0">org.elasticsearch:elasticsearch:jar:5.4.0</node>
+            <node x="1330.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-core:jar:6.5.0</node>
+            <node x="2006.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-analyzers-common:jar:6.5.0</node>
+            <node x="1121.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-backward-codecs:jar:6.5.0</node>
+            <node x="2754.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-grouping:jar:6.5.0</node>
+            <node x="3215.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-highlighter:jar:6.5.0</node>
+            <node x="999.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-join:jar:6.5.0</node>
+            <node x="3066.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-memory:jar:6.5.0</node>
+            <node x="1457.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-misc:jar:6.5.0</node>
+            <node x="2295.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-queries:jar:6.5.0</node>
+            <node x="2440.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-queryparser:jar:6.5.0</node>
+            <node x="733.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-sandbox:jar:6.5.0</node>
+            <node x="2614.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-spatial:jar:6.5.0</node>
+            <node x="549.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-spatial-extras:jar:6.5.0</node>
+            <node x="2910.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-spatial3d:jar:6.5.0</node>
+            <node x="104.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-suggest:jar:6.5.0</node>
+            <node x="886.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.elasticsearch:securesm:jar:1.1</node>
+            <node x="3522.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/net.sf.jopt-simple:jopt-simple:jar:5.0.2</node>
+            <node x="254.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/com.carrotsearch:hppc:jar:0.7.1</node>
+            <node x="514.0" y="500.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="65.0" y="500.0">org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
+            <node x="1794.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.dataformat:jackson-dataformat-smile:jar:2.8.10</node>
+            <node x="1585.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.8.10</node>
+            <node x="339.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.8.10</node>
+            <node x="0.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/com.tdunning:t-digest:jar:3.0</node>
+            <node x="3381.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="2223.0" y="610.0">org.elasticsearch:elasticsearch:jar:5.4.0/org.elasticsearch:jna:jar:4.4.0</node>
+            <node x="2853.3559021464634" y="810.0">org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="1313.9809021464634" y="810.0">org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="8739.730902146464" y="810.0">com.github.pagehelper:pagehelper:jar:4.1.6</node>
+            <node x="8743.730902146464" y="610.0">com.github.pagehelper:pagehelper:jar:4.1.6/com.github.jsqlparser:jsqlparser:jar:0.9.5</node>
+            <node x="8625.730902146464" y="810.0">com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="9488.480902146464" y="810.0">com.github.abel533:mapper:jar:2.3.4</node>
+            <node x="9382.730902146464" y="610.0">com.github.abel533:mapper:jar:2.3.4/javax.persistence:persistence-api:jar:1.0</node>
+            <node x="9531.730902146464" y="610.0">com.github.abel533:mapper:jar:2.3.4/commons-beanutils:commons-beanutils:jar:1.9.3</node>
+            <node x="9526.730902146464" y="500.0">com.github.abel533:mapper:jar:2.3.4/commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="1460.9809021464634" y="810.0">mysql:mysql-connector-java:jar:5.1.44</node>
+            <node x="2773.3559021464634" y="810.0">org.json:json:jar:20180130</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.apache.logging.log4j:log4j-core:jar:2.7">
+              <point x="25.613636363636488" y="-15.0" />
+              <point x="7319.4695385101" y="890.0" />
+              <point x="8556.230902146464" y="890.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE">
+              <point x="84.09090909090901" y="-15.0" />
+              <point x="8206.821811237372" y="790.0" />
+              <point x="8531.230902146464" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.springframework:spring-aspects:jar:4.3.13.RELEASE">
+              <point x="54.88636363636351" y="-15.0" />
+              <point x="7348.7422657828265" y="930.0" />
+              <point x="8925.230902146464" y="930.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-23.5" y="-15.0" />
+              <point x="7788.230902146463" y="590.0" />
+              <point x="7772.230902146463" y="590.0" />
+              <point x="7772.230902146463" y="350.0" />
+              <point x="6676.8631314033155" y="350.0" />
+              <point x="35.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3">
+              <point x="-22.857142857142662" y="-15.0" />
+              <point x="3953.998759289321" y="780.0" />
+              <point x="3747.5" y="780.0" />
+              <point x="-23.25" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0/org.apache.httpcomponents:httpcore-nio:jar:4.4.5">
+              <point x="14.5" y="-15.0" />
+              <point x="4289.189037968974" y="470.0" />
+              <point x="4431.973475378789" y="470.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.core:jackson-core:jar:2.8.10">
+              <point x="-35.25" y="-15.0" />
+              <point x="4388.939037968974" y="580.0" />
+              <point x="150.5" y="580.0" />
+              <point x="28.5" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0">
+              <point x="-7.6666666666667425" y="-15.0" />
+              <point x="5394.1892354797965" y="710.0" />
+              <point x="5123.355902146463" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.elasticsearch:securesm:jar:1.1">
+              <point x="-21.111111111111313" y="-15.0" />
+              <point x="1685.8697910353521" y="710.0" />
+              <point x="932.5" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-sandbox:jar:6.5.0">
+              <point x="-25.33333333333303" y="-15.0" />
+              <point x="1681.6475688131304" y="720.0" />
+              <point x="799.5" y="720.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3" target="com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3/org.apache.httpcomponents:httpcore:jar:4.4.8">
+              <point x="0.0" y="-15.0" />
+              <point x="3770.75" y="380.0" />
+              <point x="3956.8782734487713" y="380.0" />
+              <point x="-21.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="-25.5" y="-15.0" />
+              <point x="6115.855902146463" y="80.0" />
+              <point x="6651.114633207069" y="80.0" />
+              <point x="-22.08333333333394" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.23" target="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23">
+              <point x="0.0" y="-15.0" />
+              <point x="9103.730902146464" y="590.0" />
+              <point x="9220.159343524529" y="590.0" />
+              <point x="-39.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11">
+              <point x="77.625" y="-15.0" />
+              <point x="6780.730902146463" y="480.0" />
+              <point x="6899.855902146463" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="-39.0" y="-15.0" />
+              <point x="6133.105902146463" y="360.0" />
+              <point x="6079.855902146463" y="360.0" />
+              <point x="6079.855902146463" y="70.0" />
+              <point x="6642.281299873737" y="70.0" />
+              <point x="-30.91666666666606" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="net.java.dev.jna:jna:jar:4.2.2">
+              <point x="-76.84090909090901" y="-15.0" />
+              <point x="7217.014993055554" y="960.0" />
+              <point x="1267.9809021464634" y="960.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE">
+              <point x="57.75" y="-15.0" />
+              <point x="-34.5" y="15.0" />
+            </edge>
+            <edge source="com.alibaba:druid-spring-boot-starter:jar:1.1.6" target="com.alibaba:druid-spring-boot-starter:jar:1.1.6/com.alibaba:druid:jar:1.1.6">
+              <point x="-48.25" y="-15.0" />
+              <point x="6645.168402146463" y="730.0" />
+              <point x="6659.482440115438" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final">
+              <point x="0.0" y="-15.0" />
+              <point x="6409.544903950217" y="590.0" />
+              <point x="6383.105902146463" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.4">
+              <point x="-50.33333333333394" y="-15.0" />
+              <point x="6359.211570616883" y="590.0" />
+              <point x="6256.105902146463" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="29.0" y="-15.0" />
+              <point x="8237.230902146464" y="580.0" />
+              <point x="8352.730902146464" y="580.0" />
+              <point x="-46.5" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.carrotsearch:hppc:jar:0.7.1">
+              <point x="-42.222222222222626" y="-15.0" />
+              <point x="1664.7586799242408" y="760.0" />
+              <point x="286.5" y="760.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-handler:jar:4.1.9.Final">
+              <point x="0.0" y="-15.0" />
+              <point x="5123.355902146463" y="590.0" />
+              <point x="5140.010466540403" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-common:jar:4.1.9.Final">
+              <point x="50.57142857142867" y="-15.0" />
+              <point x="5173.927330717892" y="580.0" />
+              <point x="5442.510466540403" y="580.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="com.alibaba:druid-spring-boot-starter:jar:1.1.6">
+              <point x="-10.97727272727252" y="-15.0" />
+              <point x="7282.8786294191905" y="870.0" />
+              <point x="6693.418402146463" y="870.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
+              <point x="-35.0" y="-15.0" />
+              <point x="7258.855902146463" y="280.0" />
+              <point x="7178.730902146463" y="280.0" />
+              <point x="7178.730902146463" y="190.0" />
+              <point x="6489.87823728355" y="190.0" />
+              <point x="29.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.dataformat:jackson-dataformat-smile:jar:2.8.10">
+              <point x="4.222222222222626" y="-15.0" />
+              <point x="1711.203124368686" y="670.0" />
+              <point x="1890.0" y="670.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="5876.7381314033155" y="60.0" />
+              <point x="6633.447966540403" y="60.0" />
+              <point x="-39.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE">
+              <point x="-62.33333333333394" y="-15.0" />
+              <point x="7283.5225688131295" y="740.0" />
+              <point x="6951.8631314033155" y="740.0" />
+              <point x="38.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="6913.1131314033155" y="560.0" />
+              <point x="7000.105902146463" y="560.0" />
+              <point x="7000.105902146463" y="100.0" />
+              <point x="6677.614633207069" y="100.0" />
+              <point x="4.41666666666606" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.8.10">
+              <point x="0.0" y="-15.0" />
+              <point x="1706.9809021464634" y="660.0" />
+              <point x="1679.5" y="660.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5/org.slf4j:slf4j-log4j12:jar:1.7.25" target="com.qcloud:cos_api:jar:5.4.5/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17">
+              <point x="-27.5" y="-15.0" />
+              <point x="3921.875" y="590.0" />
+              <point x="3928.125" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE">
+              <point x="-31.0" y="-15.0" />
+              <point x="6882.1131314033155" y="550.0" />
+              <point x="6703.105902146463" y="550.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0" target="com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3">
+              <point x="-24.16666666666663" y="-15.0" />
+              <point x="4250.522371302308" y="480.0" />
+              <point x="3794.0" y="480.0" />
+              <point x="23.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE">
+              <point x="39.0" y="-15.0" />
+              <point x="6211.105902146463" y="360.0" />
+              <point x="6299.043402146463" y="360.0" />
+              <point x="-42.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0" target="com.qcloud:cos_api:jar:5.4.5/org.apache.httpcomponents:httpclient:jar:4.5.3/org.apache.httpcomponents:httpcore:jar:4.4.8">
+              <point x="4.833333333333485" y="-15.0" />
+              <point x="4279.522371302308" y="450.0" />
+              <point x="4271.875" y="450.0" />
+              <point x="4271.875" y="360.0" />
+              <point x="4000.3782734487713" y="360.0" />
+              <point x="21.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE">
+              <point x="-47.25" y="-15.0" />
+              <point x="6293.793402146463" y="270.0" />
+              <point x="5913.2381314033155" y="270.0" />
+              <point x="36.5" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-misc:jar:6.5.0">
+              <point x="-4.222222222222626" y="-15.0" />
+              <point x="1702.7586799242408" y="670.0" />
+              <point x="1511.0" y="670.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.8.10">
+              <point x="-38.0" y="-15.0" />
+              <point x="1668.9809021464634" y="750.0" />
+              <point x="433.5" y="750.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.tdunning:t-digest:jar:3.0">
+              <point x="-54.88888888888869" y="-15.0" />
+              <point x="1652.0920132575748" y="790.0" />
+              <point x="41.5" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="junit:junit:jar:4.12">
+              <point x="34.28571428571422" y="-15.0" />
+              <point x="4011.1416164321777" y="750.0" />
+              <point x="8296.39756881313" y="750.0" />
+              <point x="-20.333333333333485" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="50.33333333333394" y="-15.0" />
+              <point x="6459.878237283551" y="590.0" />
+              <point x="6521.105902146463" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-grouping:jar:6.5.0">
+              <point x="29.555555555555657" y="-15.0" />
+              <point x="1736.536457702019" y="730.0" />
+              <point x="2822.0" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/com.fasterxml.jackson.core:jackson-core:jar:2.8.10">
+              <point x="-50.66666666666697" y="-15.0" />
+              <point x="1656.3142354797965" y="780.0" />
+              <point x="93.5" y="780.0" />
+              <point x="-28.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23">
+              <point x="68.0" y="-15.0" />
+              <point x="9360.341152236651" y="790.0" />
+              <point x="9372.230902146464" y="790.0" />
+              <point x="9372.230902146464" y="590.0" />
+              <point x="9298.659343524529" y="590.0" />
+              <point x="39.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE">
+              <point x="74.39999999999964" y="-15.0" />
+              <point x="6272.505902146463" y="740.0" />
+              <point x="6874.3631314033155" y="740.0" />
+              <point x="-38.75" y="15.0" />
+            </edge>
+            <edge source="com.alibaba:druid-spring-boot-starter:jar:1.1.6" target="com.alibaba:druid-spring-boot-starter:jar:1.1.6/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
+              <point x="48.25" y="-15.0" />
+              <point x="6741.668402146463" y="730.0" />
+              <point x="6825.1131314033155" y="730.0" />
+              <point x="6825.1131314033155" y="580.0" />
+              <point x="7063.855902146463" y="580.0" />
+              <point x="-67.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10">
+              <point x="-74.39999999999964" y="-15.0" />
+              <point x="6123.705902146464" y="700.0" />
+              <point x="4459.439037968974" y="700.0" />
+              <point x="35.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch:elasticsearch:jar:2.4.6">
+              <point x="23.0" y="-15.0" />
+              <point x="5424.855902146463" y="730.0" />
+              <point x="5856.510466540403" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.2.8">
+              <point x="-40.25" y="-15.0" />
+              <point x="7253.605902146463" y="910.0" />
+              <point x="2894.3559021464634" y="910.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE">
+              <point x="62.204545454545496" y="-15.0" />
+              <point x="7356.0604476010085" y="940.0" />
+              <point x="9292.341152236651" y="940.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-suggest:jar:6.5.0">
+              <point x="-46.44444444444434" y="-15.0" />
+              <point x="1660.536457702019" y="770.0" />
+              <point x="169.0" y="770.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:lang-mustache-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:lang-mustache-client:jar:5.4.0/com.github.spullara.mustache.java:compiler:jar:0.9.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE">
+              <point x="53.75" y="-15.0" />
+              <point x="6133.760466540403" y="480.0" />
+              <point x="6341.043402146463" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="com.qcloud:cos_api:jar:5.4.5/commons-codec:commons-codec:jar:1.10">
+              <point x="-11.428571428571558" y="-15.0" />
+              <point x="3965.427330717892" y="770.0" />
+              <point x="3871.5" y="770.0" />
+              <point x="-34.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1">
+              <point x="-29.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="8531.230902146464" y="50.0" />
+              <point x="6721.781299873737" y="50.0" />
+              <point x="48.58333333333394" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE">
+              <point x="-32.25" y="-15.0" />
+              <point x="6047.760466540403" y="470.0" />
+              <point x="5840.2381314033155" y="470.0" />
+              <point x="-36.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
+              <point x="31.0" y="-15.0" />
+              <point x="6944.1131314033155" y="570.0" />
+              <point x="7019.855902146463" y="570.0" />
+              <point x="7019.855902146463" y="480.0" />
+              <point x="7057.355902146463" y="480.0" />
+              <point x="-36.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
+              <point x="25.875" y="-15.0" />
+              <point x="6728.980902146463" y="480.0" />
+              <point x="6765.855902146463" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="18.295454545454504" y="-15.0" />
+              <point x="7312.151356691918" y="880.0" />
+              <point x="8337.064235479796" y="880.0" />
+              <point x="20.333333333333485" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final">
+              <point x="37.20000000000073" y="-15.0" />
+              <point x="6235.305902146464" y="730.0" />
+              <point x="6409.544903950217" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23">
+              <point x="62.33333333333394" y="-15.0" />
+              <point x="7408.189235479797" y="740.0" />
+              <point x="7410.855902146463" y="740.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.23">
+              <point x="-68.0" y="-15.0" />
+              <point x="9224.341152236651" y="790.0" />
+              <point x="9103.730902146464" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE">
+              <point x="32.25" y="-15.0" />
+              <point x="6112.260466540403" y="470.0" />
+              <point x="6146.105902146463" y="470.0" />
+              <point x="-26.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25">
+              <point x="-77.625" y="-15.0" />
+              <point x="6625.480902146463" y="480.0" />
+              <point x="6430.543402146463" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
+              <point x="47.25" y="-15.0" />
+              <point x="6388.293402146463" y="280.0" />
+              <point x="6470.544903950216" y="280.0" />
+              <point x="9.66666666666606" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="com.github.abel533:mapper:jar:2.3.4">
+              <point x="69.52272727272748" y="-15.0" />
+              <point x="7363.3786294191905" y="950.0" />
+              <point x="9528.480902146464" y="950.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.elasticsearch:elasticsearch:jar:5.4.0">
+              <point x="-54.88636363636351" y="-15.0" />
+              <point x="7238.9695385101" y="930.0" />
+              <point x="1706.9809021464634" y="930.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="0.0" y="-15.0" />
+              <point x="6765.855902146463" y="380.0" />
+              <point x="6648.8631314033155" y="380.0" />
+              <point x="7.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0">
+              <point x="35.25" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.23">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE">
+              <point x="10.75" y="-15.0" />
+              <point x="6090.760466540403" y="470.0" />
+              <point x="6068.855902146463" y="470.0" />
+              <point x="6068.855902146463" y="280.0" />
+              <point x="6107.355902146463" y="280.0" />
+              <point x="-34.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-spatial3d:jar:6.5.0">
+              <point x="33.777777777777374" y="-15.0" />
+              <point x="1740.7586799242408" y="740.0" />
+              <point x="2978.0" y="740.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="com.qcloud:cos_api:jar:5.4.5/joda-time:joda-time:jar:2.9.9">
+              <point x="-34.28571428571422" y="-15.0" />
+              <point x="3942.5701878607492" y="790.0" />
+              <point x="3714.0" y="790.0" />
+              <point x="23.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:lang-mustache-client:jar:5.4.0">
+              <point x="7.6666666666667425" y="-15.0" />
+              <point x="5409.52256881313" y="720.0" />
+              <point x="5697.010466540403" y="720.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0/org.apache.httpcomponents:httpasyncclient:jar:4.1.3">
+              <point x="-4.833333333333371" y="-15.0" />
+              <point x="4269.855704635641" y="460.0" />
+              <point x="4196.875" y="460.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.44">
+              <point x="-62.204545454545496" y="-15.0" />
+              <point x="7231.651356691918" y="940.0" />
+              <point x="1545.4809021464634" y="940.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE">
+              <point x="-37.20000000000073" y="-15.0" />
+              <point x="6160.905902146463" y="690.0" />
+              <point x="6080.010466540403" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="22.75" y="-15.0" />
+              <point x="7316.605902146463" y="80.0" />
+              <point x="6695.281299873737" y="80.0" />
+              <point x="22.08333333333394" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0">
+              <point x="-50.454545454545496" y="-15.0" />
+              <point x="8072.276356691918" y="720.0" />
+              <point x="7811.730902146463" y="720.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="8434.730902146464" y="590.0" />
+              <point x="8414.730902146464" y="590.0" />
+              <point x="15.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="junit:junit:jar:4.12">
+              <point x="33.63636363636351" y="-15.0" />
+              <point x="8156.3672657828265" y="760.0" />
+              <point x="8316.730902146464" y="760.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.elasticsearch.client:transport:jar:5.4.0">
+              <point x="-25.613636363636488" y="-15.0" />
+              <point x="7268.2422657828265" y="890.0" />
+              <point x="5401.855902146463" y="890.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.assertj:assertj-core:jar:2.6.0">
+              <point x="-33.63636363636351" y="-15.0" />
+              <point x="8089.0945385101" y="710.0" />
+              <point x="7932.730902146463" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="com.qcloud:cos_api:jar:5.4.5/org.slf4j:slf4j-log4j12:jar:1.7.25">
+              <point x="0.0" y="-15.0" />
+              <point x="3976.8559021464634" y="760.0" />
+              <point x="3949.375" y="760.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-backward-codecs:jar:6.5.0">
+              <point x="-12.66666666666697" y="-15.0" />
+              <point x="1694.3142354797965" y="690.0" />
+              <point x="1215.5" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.hdrhistogram:HdrHistogram:jar:2.1.9">
+              <point x="46.44444444444434" y="-15.0" />
+              <point x="1753.4253465909078" y="770.0" />
+              <point x="3441.5" y="770.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="8316.730902146464" y="590.0" />
+              <point x="8383.730902146464" y="590.0" />
+              <point x="-15.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25">
+              <point x="-25.875" y="-15.0" />
+              <point x="6677.230902146463" y="480.0" />
+              <point x="6640.355902146463" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.mybatis:mybatis-spring:jar:1.2.2">
+              <point x="-69.52272727272702" y="-15.0" />
+              <point x="7224.333174873736" y="950.0" />
+              <point x="1377.4809021464634" y="950.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
+              <point x="25.5" y="-15.0" />
+              <point x="6166.855902146463" y="180.0" />
+              <point x="6431.87823728355" y="180.0" />
+              <point x="-29.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
+              <point x="13.0" y="-15.0" />
+              <point x="6185.105902146463" y="360.0" />
+              <point x="6202.855902146463" y="360.0" />
+              <point x="6202.855902146463" y="190.0" />
+              <point x="6451.211570616884" y="190.0" />
+              <point x="-9.66666666666606" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE">
+              <point x="-84.09090909090901" y="-15.0" />
+              <point x="8038.639993055554" y="740.0" />
+              <point x="7600.855902146463" y="740.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-analyzers-common:jar:6.5.0">
+              <point x="8.444444444444343" y="-15.0" />
+              <point x="1715.4253465909078" y="680.0" />
+              <point x="2104.5" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.yaml:snakeyaml:jar:1.17">
+              <point x="-62.0" y="-15.0" />
+              <point x="6851.1131314033155" y="560.0" />
+              <point x="587.5" y="560.0" />
+              <point x="24.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="7692.730902146463" y="470.0" />
+              <point x="7129.355902146463" y="470.0" />
+              <point x="36.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="com.github.jsqlparser:jsqlparser:jar:0.9.1">
+              <point x="40.25" y="-15.0" />
+              <point x="7334.105902146463" y="910.0" />
+              <point x="8672.730902146464" y="910.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.abel533:mapper:jar:2.3.4" target="com.github.abel533:mapper:jar:2.3.4/javax.persistence:persistence-api:jar:1.0">
+              <point x="-20.0" y="-15.0" />
+              <point x="9508.480902146464" y="790.0" />
+              <point x="9447.230902146464" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.json:json:jar:20180130">
+              <point x="-47.56818181818198" y="-15.0" />
+              <point x="7246.2877203282815" y="920.0" />
+              <point x="2803.3559021464634" y="920.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="35.0" y="-15.0" />
+              <point x="7328.855902146463" y="280.0" />
+              <point x="7480.62823728355" y="280.0" />
+              <point x="7480.62823728355" y="70.0" />
+              <point x="6704.114633207069" y="70.0" />
+              <point x="30.91666666666606" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-buffer:jar:4.1.9.Final">
+              <point x="-25.28571428571422" y="-15.0" />
+              <point x="5098.070187860749" y="570.0" />
+              <point x="5006.010466540403" y="570.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23" target="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23/org.apache.tomcat:tomcat-juli:jar:8.5.23">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-spatial:jar:6.5.0">
+              <point x="25.33333333333303" y="-15.0" />
+              <point x="1732.3142354797965" y="720.0" />
+              <point x="2674.0" y="720.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE" target="com.alibaba:druid-spring-boot-starter:jar:1.1.6/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
+              <point x="62.0" y="-15.0" />
+              <point x="6975.1131314033155" y="590.0" />
+              <point x="7130.855902146463" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="7345.855902146463" y="380.0" />
+              <point x="7320.105902146463" y="380.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE">
+              <point x="-27.0" y="-15.0" />
+              <point x="7066.355902146463" y="360.0" />
+              <point x="6383.043402146463" y="360.0" />
+              <point x="42.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="6460.87823728355" y="100.0" />
+              <point x="6668.781299873737" y="100.0" />
+              <point x="-4.41666666666606" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19">
+              <point x="16.818181818181984" y="-15.0" />
+              <point x="8139.549083964645" y="740.0" />
+              <point x="8208.230902146464" y="740.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.abel533:mapper:jar:2.3.4" target="com.github.abel533:mapper:jar:2.3.4/commons-beanutils:commons-beanutils:jar:1.9.3">
+              <point x="20.0" y="-15.0" />
+              <point x="9548.480902146464" y="790.0" />
+              <point x="9609.730902146464" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.alibaba:druid-spring-boot-starter:jar:1.1.6/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="7130.855902146463" y="480.0" />
+              <point x="7093.355902146463" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.pagehelper:pagehelper:jar:4.1.6" target="com.github.pagehelper:pagehelper:jar:4.1.6/com.github.jsqlparser:jsqlparser:jar:0.9.5">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="0.0" y="-15.0" />
+              <point x="6430.543402146463" y="380.0" />
+              <point x="6620.8631314033155" y="380.0" />
+              <point x="-21.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="-53.75" y="-15.0" />
+              <point x="6026.260466540403" y="480.0" />
+              <point x="5793.2381314033155" y="480.0" />
+              <point x="5793.2381314033155" y="50.0" />
+              <point x="6624.614633207069" y="50.0" />
+              <point x="-48.58333333333394" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty3-client:jar:5.4.0">
+              <point x="-23.0" y="-15.0" />
+              <point x="5378.855902146463" y="720.0" />
+              <point x="4603.189037968974" y="720.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23" target="org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23/org.apache.tomcat:tomcat-annotations-api:jar:8.5.23">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-spatial-extras:jar:6.5.0">
+              <point x="-29.555555555555657" y="-15.0" />
+              <point x="1677.4253465909078" y="730.0" />
+              <point x="631.0" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE">
+              <point x="10.97727272727252" y="-15.0" />
+              <point x="7304.833174873736" y="870.0" />
+              <point x="8122.730902146463" y="870.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-codec:jar:4.1.9.Final">
+              <point x="75.85714285714289" y="-15.0" />
+              <point x="5199.213045003607" y="590.0" />
+              <point x="5579.510466540403" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="0.0" y="-15.0" />
+              <point x="6640.355902146463" y="380.0" />
+              <point x="6634.8631314033155" y="380.0" />
+              <point x="-7.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE">
+              <point x="-13.0" y="-15.0" />
+              <point x="6159.105902146463" y="360.0" />
+              <point x="6141.355902146463" y="360.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
+              <point x="50.454545454545496" y="-15.0" />
+              <point x="8173.1854476010085" y="770.0" />
+              <point x="8434.730902146464" y="770.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.apache.logging.log4j:log4j-api:jar:2.7">
+              <point x="32.93181818181802" y="-15.0" />
+              <point x="7326.7877203282815" y="900.0" />
+              <point x="8615.230902146464" y="900.0" />
+              <point x="8615.230902146464" y="790.0" />
+              <point x="8607.730902146464" y="790.0" />
+              <point x="22.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0/commons-logging:commons-logging:jar:1.1.3">
+              <point x="24.16666666666663" y="-15.0" />
+              <point x="4298.855704635641" y="480.0" />
+              <point x="4580.973475378789" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-queries:jar:6.5.0">
+              <point x="16.888888888888687" y="-15.0" />
+              <point x="1723.8697910353521" y="700.0" />
+              <point x="2357.5" y="700.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-resolver:jar:4.1.9.Final">
+              <point x="-75.85714285714289" y="-15.0" />
+              <point x="5047.49875928932" y="590.0" />
+              <point x="4720.510466540403" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-core:jar:6.5.0">
+              <point x="-8.444444444444343" y="-15.0" />
+              <point x="1698.536457702019" y="680.0" />
+              <point x="1383.5" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-memory:jar:6.5.0">
+              <point x="38.0" y="-15.0" />
+              <point x="1744.9809021464634" y="750.0" />
+              <point x="3130.5" y="750.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty3-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty3-client:jar:5.4.0/io.netty:netty:jar:3.10.6.Final">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0">
+              <point x="-16.818181818181984" y="-15.0" />
+              <point x="8105.9127203282815" y="700.0" />
+              <point x="8055.730902146463" y="700.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11">
+              <point x="32.25" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:percolator-client:jar:5.4.0">
+              <point x="38.33333333333326" y="-15.0" />
+              <point x="5440.1892354797965" y="740.0" />
+              <point x="6001.510466540403" y="740.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE">
+              <point x="-18.295454545454504" y="-15.0" />
+              <point x="7275.5604476010085" y="880.0" />
+              <point x="6198.105902146463" y="880.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.abel533:mapper:jar:2.3.4/commons-beanutils:commons-beanutils:jar:1.9.3" target="com.github.abel533:mapper:jar:2.3.4/commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
+              <point x="-10.75" y="-15.0" />
+              <point x="6069.260466540403" y="480.0" />
+              <point x="6057.855902146463" y="480.0" />
+              <point x="6057.855902146463" y="170.0" />
+              <point x="6412.544903950216" y="170.0" />
+              <point x="-48.33333333333394" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aspects:jar:4.3.13.RELEASE" target="org.springframework:spring-aspects:jar:4.3.13.RELEASE/org.aspectj:aspectjweaver:jar:1.8.13">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="15.75" y="-15.0" />
+              <point x="6356.793402146463" y="90.0" />
+              <point x="6659.947966540403" y="90.0" />
+              <point x="-13.25" y="15.0" />
+            </edge>
+            <edge source="commons-fileupload:commons-fileupload:jar:1.3.1" target="commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.3.1">
+              <point x="76.84090909090901" y="-15.0" />
+              <point x="7370.6968112373725" y="960.0" />
+              <point x="9763.230902146464" y="960.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10">
+              <point x="22.857142857142662" y="-15.0" />
+              <point x="3999.713045003606" y="740.0" />
+              <point x="4388.939037968974" y="740.0" />
+              <point x="-35.25" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-join:jar:6.5.0">
+              <point x="-16.888888888888687" y="-15.0" />
+              <point x="1690.0920132575748" y="700.0" />
+              <point x="1050.0" y="700.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="com.qcloud:cos_api:jar:5.4.5">
+              <point x="-32.93181818181802" y="-15.0" />
+              <point x="7260.924083964645" y="900.0" />
+              <point x="3976.8559021464634" y="900.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.9.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-32.25" y="-15.0" />
+              <point x="6867.605902146463" y="370.0" />
+              <point x="6662.8631314033155" y="370.0" />
+              <point x="21.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="27.0" y="-15.0" />
+              <point x="7120.355902146463" y="90.0" />
+              <point x="6686.447966540403" y="90.0" />
+              <point x="13.25" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE">
+              <point x="-15.75" y="-15.0" />
+              <point x="6325.293402146463" y="260.0" />
+              <point x="6175.355902146463" y="260.0" />
+              <point x="34.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1">
+              <point x="23.5" y="-15.0" />
+              <point x="7835.230902146463" y="590.0" />
+              <point x="7851.230902146463" y="590.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-codec-http:jar:4.1.9.Final">
+              <point x="25.28571428571422" y="-15.0" />
+              <point x="5148.641616432178" y="570.0" />
+              <point x="5289.510466540403" y="570.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5/org.slf4j:slf4j-log4j12:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="27.5" y="-15.0" />
+              <point x="3976.875" y="590.0" />
+              <point x="3984.75" y="590.0" />
+              <point x="3984.75" y="370.0" />
+              <point x="6606.8631314033155" y="370.0" />
+              <point x="-35.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0">
+              <point x="-38.33333333333326" y="-15.0" />
+              <point x="5363.52256881313" y="730.0" />
+              <point x="4274.689037968974" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="com.github.pagehelper:pagehelper:jar:4.1.6">
+              <point x="47.56818181818198" y="-15.0" />
+              <point x="7341.424083964645" y="920.0" />
+              <point x="8790.730902146464" y="920.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE">
+              <point x="-67.27272727272702" y="-15.0" />
+              <point x="8055.458174873736" y="730.0" />
+              <point x="7726.855902146463" y="730.0" />
+              <point x="34.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE" target="com.alibaba:druid-spring-boot-starter:jar:1.1.6/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE">
+              <point x="-57.75" y="-15.0" />
+              <point x="7543.105902146463" y="590.0" />
+              <point x="7197.855902146463" y="590.0" />
+              <point x="67.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:reindex-client:jar:5.4.0/org.elasticsearch.client:rest:jar:5.4.0" target="com.qcloud:cos_api:jar:5.4.5/commons-codec:commons-codec:jar:1.10">
+              <point x="-14.5" y="-15.0" />
+              <point x="4260.189037968974" y="470.0" />
+              <point x="3940.0" y="470.0" />
+              <point x="34.25" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/net.sf.jopt-simple:jopt-simple:jar:5.0.2">
+              <point x="50.66666666666697" y="-15.0" />
+              <point x="1757.6475688131304" y="780.0" />
+              <point x="3573.5" y="780.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="26.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-highlighter:jar:6.5.0">
+              <point x="42.222222222222626" y="-15.0" />
+              <point x="1749.203124368686" y="760.0" />
+              <point x="3288.0" y="760.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.logging.log4j:log4j-core:jar:2.7" target="org.apache.logging.log4j:log4j-api:jar:2.7">
+              <point x="0.0" y="-15.0" />
+              <point x="8556.230902146464" y="790.0" />
+              <point x="8563.730902146464" y="790.0" />
+              <point x="-22.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="8122.730902146463" y="60.0" />
+              <point x="6712.947966540403" y="60.0" />
+              <point x="39.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.apache.lucene:lucene-queryparser:jar:6.5.0">
+              <point x="21.111111111111313" y="-15.0" />
+              <point x="1728.0920132575748" y="710.0" />
+              <point x="2517.0" y="710.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.elasticsearch:jna:jar:4.4.0">
+              <point x="12.66666666666697" y="-15.0" />
+              <point x="1719.6475688131304" y="690.0" />
+              <point x="2249.0" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="org.elasticsearch:elasticsearch:jar:5.4.0/org.yaml:snakeyaml:jar:1.17">
+              <point x="-33.777777777777374" y="-15.0" />
+              <point x="1673.203124368686" y="740.0" />
+              <point x="538.5" y="740.0" />
+              <point x="-24.5" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE">
+              <point x="-3.6590909090909918" y="-15.0" />
+              <point x="7290.1968112373725" y="860.0" />
+              <point x="7241.855902146463" y="860.0" />
+              <point x="7241.855902146463" y="380.0" />
+              <point x="7267.605902146463" y="380.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0" target="org.elasticsearch.client:transport:jar:5.4.0/org.elasticsearch.plugin:transport-netty4-client:jar:5.4.0/io.netty:netty-transport:jar:4.1.9.Final">
+              <point x="-50.57142857142867" y="-15.0" />
+              <point x="5072.784473575035" y="580.0" />
+              <point x="4866.010466540403" y="580.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE" target="org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE">
+              <point x="-22.75" y="-15.0" />
+              <point x="7271.105902146463" y="180.0" />
+              <point x="6509.211570616884" y="180.0" />
+              <point x="48.33333333333394" y="15.0" />
+            </edge>
+            <edge source="com.qcloud:cos_api:jar:5.4.5" target="com.qcloud:cos_api:jar:5.4.5/org.bouncycastle:bcprov-jdk15on:jar:1.59">
+              <point x="11.428571428571558" y="-15.0" />
+              <point x="3988.284473575035" y="730.0" />
+              <point x="4130.189037968974" y="730.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.stan.gamepedia:com.stan.gamepedia:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE">
+              <point x="3.6590909090909918" y="-15.0" />
+              <point x="7297.514993055554" y="860.0" />
+              <point x="7345.855902146463" y="860.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="67.27272727272748" y="-15.0" />
+              <point x="8190.0036294191905" y="780.0" />
+              <point x="8512.730902146464" y="780.0" />
+              <point x="8512.730902146464" y="590.0" />
+              <point x="8445.730902146464" y="590.0" />
+              <point x="46.5" y="15.0" />
+            </edge>
+            <edge source="org.elasticsearch:elasticsearch:jar:5.4.0" target="com.qcloud:cos_api:jar:5.4.5/joda-time:joda-time:jar:2.9.9">
+              <point x="54.88888888888869" y="-15.0" />
+              <point x="1761.8697910353521" y="790.0" />
+              <point x="3668.0" y="790.0" />
+              <point x="-23.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4595706971248523" x="502.2265072631443" y="880.2265072631443" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/GameContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="297">
+          <caret line="161" column="21" lean-forward="false" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/multipart/MultipartResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1415#1416#0" expanded="true" />
+            <element signature="e#11132#11133#0" expanded="true" />
+            <element signature="e#11159#11160#0" expanded="true" />
+            <element signature="e#12717#12718#0" expanded="true" />
+            <element signature="e#12786#12787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/utils/COSClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="948">
+          <caret line="195" column="70" lean-forward="false" selection-start-line="195" selection-start-column="70" selection-end-line="195" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/GameContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/GamePediaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="127">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/model/ConsoleUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/GameContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/controller/ConsoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stan/gamepedia/service/ConsoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="816" column="8" lean-forward="false" selection-start-line="816" selection-start-column="8" selection-end-line="816" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

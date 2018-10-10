@@ -32,10 +32,10 @@ public class ZeldaMaterial extends ZeldaItem{
         map.put("typeid",typeid);
 //        map.put("id", id);
 //        map.put("name", name);
-//        map.put("image", image);
+        map.put("image", image);
 //        map.put("quality", quality);
 //        map.put("location", location);
-//        map.put("description",description);
+        map.put("description",description);
 //        map.put("additionalUse",additionaluse);
 //        map.put("value",value);
 //        map.put("typeid",typeid);

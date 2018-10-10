@@ -9,22 +9,21 @@ import java.util.List;
 
 public interface GameContentService {
 
-    GameContent save(GameContent gameContent);
 
-    void delete(GameContent gameContent);
-
+//
     EsResult findAll(String query);
 
 
     List<Game> getGameList();
 
+    List<Game> getGameCategory(Long gameid);
+
     List<ZeldaTemple> getTempleByTypeId(String typeid);
 
     ZeldaItem getItemByTypeId(String typeid);
 
-    List<ZeldaTemple> getAllTemple();
 
-    List<ZeldaTemple> getPicOneTemple();
+    List<ZeldaTemple> getPicOneTemple(boolean isTemple);
 
     ZeldaTemple saveTemple(ZeldaTemple zeldaTemple);
 
@@ -32,4 +31,11 @@ public interface GameContentService {
 
     List<ZeldaItem> getZeldaItem(String type);
 
+    public List<ZeldaContent> getContentList(String categoryId);
+
+    public void updateItem(String type, ZeldaItem item);
+
+    public void updateTemple();
+
+    public void updateTemple(ZeldaTemple temple);
 }

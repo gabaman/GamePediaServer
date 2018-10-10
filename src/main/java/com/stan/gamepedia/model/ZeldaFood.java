@@ -30,10 +30,10 @@ public class ZeldaFood extends ZeldaItem {
         map.put("typeid",typeid);
 //        map.put("id", id);
 //        map.put("name", name);
-//        map.put("image", image);
+        map.put("image", image);
 //        map.put("ingredient", ingredient);
 //        map.put("effect", effect);
-//        map.put("description",description);
+        map.put("description",description);
 //        map.put("typeid",typeid);
 
         return map;

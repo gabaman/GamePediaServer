@@ -25,16 +25,10 @@ public class GameContentController {
         return GPResult.ok(service.findAll(query));
     }
 
-    @RequestMapping(value = "/save", method = RequestMethod.POST)
-    @ResponseBody
-    public GPResult save(HttpServletRequest request, GameContent gameContent) {
-
-        return GPResult.ok(service.save(gameContent));
-    }
 
     @RequestMapping(value = "/gameList", method = RequestMethod.POST)
     @ResponseBody
-    public GPResult gameList(HttpServletRequest request, GameContent gameContent) {
+    public GPResult gameList(HttpServletRequest request) {
 
         return GPResult.ok(service.getGameList());
     }
@@ -76,5 +70,21 @@ public class GameContentController {
             return GPResult.ok(it);
         }
         return GPResult.build(400,"error data");
+    }
+    @RequestMapping(value = "/gameCategory", method = RequestMethod.POST)
+    @ResponseBody
+    public GPResult gameCategory(HttpServletRequest request, String gameId) {
+
+
+
+        return GPResult.ok(service.getGameCategory(Long.valueOf(gameId)));
+    }
+
+    @RequestMapping(value = "/contentList", method = RequestMethod.POST)
+    @ResponseBody
+    public GPResult contentList(HttpServletRequest request, String categoryId) {
+
+
+        return GPResult.ok(service.getContentList(categoryId));
     }
 }

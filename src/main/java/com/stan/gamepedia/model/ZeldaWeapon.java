@@ -39,16 +39,17 @@ public class ZeldaWeapon extends ZeldaItem{
         map.put("title", name);
         map.put("content",description);
         map.put("typeid",typeid);
-//        map.put("image", image);
+        map.put("image", image);
 //        map.put("downCompedium", downcompedium);
 //        map.put("upCompedium", upcompedium);
 //        map.put("attack", attack);
 //        map.put("durability",durability);
-//        map.put("description",description);
+        map.put("description",description);
 
 
         return map;
     }
+
 
     public Long getId() {
         return id;

@@ -32,12 +32,12 @@ public class ZeldaShield extends ZeldaItem {
         map.put("typeid",typeid);
 //        map.put("id", id);
 //        map.put("name", name);
-//        map.put("image", image);
+        map.put("image", image);
 //        map.put("downCompedium", downcompedium);
 //        map.put("upCompedium", upcompedium);
 //        map.put("strength", strength);
 //        map.put("durability",durability);
-//        map.put("description",description);
+        map.put("description",description);
 //        map.put("typeid",typeid);
 
         return map;

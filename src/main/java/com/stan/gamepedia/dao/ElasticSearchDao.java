@@ -18,8 +18,8 @@ public interface ElasticSearchDao {
 
     EsResult searchAll(String name, Integer start, Integer size);
 
-    ZeldaTemple saveTemple(ZeldaTemple zeldaTemple);
+    public ZeldaTemple saveTemple(ZeldaTemple zeldaTemple,boolean isTemple);
 
-    void saveType(String type,Object object);
+    Boolean saveType(String type,Object object);
 
 }
