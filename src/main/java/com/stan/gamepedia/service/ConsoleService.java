@@ -681,13 +681,16 @@ public class ConsoleService {
 
     }
 
-    public GPResult add(ConsoleUpdater updater,String categoryId){
-        if (!findTypeId(updater.getTypeid())){
-            return GPResult.build(400, "未能找到typeId");
+    public GPResult addItem(ConsoleUpdater updater,String categoryId){
+
+        if (!this.checkCategoryId(categoryId)){
+            return GPResult.build(400,"categoryId不正确");
         }
+        String newTypeId = this.findNextTypeId(categoryId);
 
          if (categoryId.equals("10003")){
-            ZeldaWeapon wp = (ZeldaWeapon)this.getItemByTypeId(updater.getTypeid());
+            ZeldaWeapon wp = new ZeldaWeapon();
+            wp.setTypeid(newTypeId);
 
             if (updater.getDescription() != null){
                 wp.setDescription(updater.getDescription());
@@ -710,13 +713,12 @@ public class ConsoleService {
             }
             if (updater.getDurability() != null){
                 wp.setDurability(updater.getDurability());
-
             }
-            weaponMapper.updateByPrimaryKeySelective(wp);
+            weaponMapper.insertSelective(wp);
 
         }else if (categoryId.equals("10004")){
-            ZeldaShield sh = (ZeldaShield)this.getItemByTypeId(updater.getTypeid());
-
+            ZeldaShield sh = new ZeldaShield();
+            sh.setTypeid(newTypeId);
             if (updater.getDescription() != null){
                 sh.setDescription(updater.getDescription());
             }
@@ -743,8 +745,8 @@ public class ConsoleService {
             shieldMapper.updateByPrimaryKeySelective(sh);
 
         }else if (categoryId.equals("10005")){
-            ZeldaArmor sh = (ZeldaArmor)this.getItemByTypeId(updater.getTypeid());
-
+             ZeldaArmor sh = new ZeldaArmor();
+             sh.setTypeid(newTypeId);
             if (updater.getDescription() != null){
                 sh.setDescription(updater.getDescription());
             }
@@ -763,8 +765,8 @@ public class ConsoleService {
             armorMapper.updateByPrimaryKeySelective(sh);
 
         }else if (categoryId.equals("10006")){
-            ZeldaMaterial sh = (ZeldaMaterial)this.getItemByTypeId(updater.getTypeid());
-
+             ZeldaMaterial sh = new ZeldaMaterial();
+             sh.setTypeid(newTypeId);
             if (updater.getDescription() != null){
                 sh.setDescription(updater.getDescription());
             }
@@ -788,8 +790,8 @@ public class ConsoleService {
             materialMapper.updateByPrimaryKeySelective(sh);
 
         }else if (categoryId.equals("10007")){
-            ZeldaFood sh = (ZeldaFood)this.getItemByTypeId(updater.getTypeid());
-
+             ZeldaFood sh = new ZeldaFood();
+             sh.setTypeid(newTypeId);
             if (updater.getDescription() != null){
                 sh.setDescription(updater.getDescription());
             }
@@ -813,7 +815,39 @@ public class ConsoleService {
         return GPResult.ok();
     }
 
-    private String findLargestTypeId(String categoryId){
-        
+    private String findNextTypeId(String categoryId){
+        List list = this.getZeldaItem(categoryId);
+        Integer p = 0;
+        String res = "";
+        for(int i= 0;i<list.size();i++){
+
+            switch (categoryId){
+                case "10003":{ ZeldaWeapon wp =(ZeldaWeapon)(list.get(i));
+                Integer tpid = Integer.valueOf(wp.getTypeid().substring(4));
+                if (tpid>p){p = tpid; res=wp.getTypeid();}}
+                case "10004": {ZeldaShield wp =(ZeldaShield)(list.get(i));
+                    Integer tpid = Integer.valueOf(wp.getTypeid().substring(4));
+                    if (tpid>p){p = tpid; res=wp.getTypeid();}}
+                case "10005": {ZeldaArmor wp =(ZeldaArmor)(list.get(i));
+                    Integer tpid = Integer.valueOf(wp.getTypeid().substring(4));
+                    if (tpid>p){p = tpid; res=wp.getTypeid();}}
+                case "10006": {ZeldaMaterial wp =(ZeldaMaterial)(list.get(i));
+                    Integer tpid = Integer.valueOf(wp.getTypeid().substring(4));
+                    if (tpid>p){p = tpid; res=wp.getTypeid();}}
+                case "10007": {ZeldaFood wp =(ZeldaFood)(list.get(i));
+                    Integer tpid = Integer.valueOf(wp.getTypeid().substring(4));
+                    if (tpid>p){p = tpid; res=wp.getTypeid();}}
+            }
+        }
+        String pre = res.substring(0,4);
+        Integer next = Integer.valueOf(res.substring(4))+1;
+        return pre+String.valueOf(next);
+    }
+
+    private Boolean checkCategoryId(String categoryId){
+        if (categoryId.equals("10003")||categoryId.equals("10004")||categoryId.equals("10005")||categoryId.equals("10006")||categoryId.equals("10007")){
+            return true;
+        }
+        return false;
     }
 }

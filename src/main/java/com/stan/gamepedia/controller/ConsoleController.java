@@ -73,4 +73,11 @@ public class ConsoleController {
         return service.delete(typeId);
     }
 
+    @RequestMapping(value = "/addItem", method = RequestMethod.POST)
+    @ResponseBody
+    public GPResult addItem(HttpServletRequest request,  ConsoleUpdater updater, String categoryId) throws Exception {
+
+        return service.addItem(updater,categoryId);
+    }
+
 }
