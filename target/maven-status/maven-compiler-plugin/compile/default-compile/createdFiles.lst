@@ -27,10 +27,12 @@ com/stan/gamepedia/model/GameDetail.class
 com/stan/gamepedia/spring/config/ElasticsearchConfig.class
 com/stan/gamepedia/dao/impl/ElasticSearchDaoImpl.class
 com/stan/gamepedia/model/ConsoleUpdater.class
+com/stan/gamepedia/spring/config/FilterConfig.class
 com/stan/gamepedia/utils/COSClientUtil.class
 com/stan/gamepedia/model/ZeldaMaterial.class
 com/stan/gamepedia/controller/ConsoleController.class
 com/stan/gamepedia/model/ZeldaShield.class
 com/stan/gamepedia/model/GPResult.class
+com/stan/gamepedia/filter/RestFilter.class
 com/stan/gamepedia/mapper/GameContentMapper.class
 com/stan/gamepedia/mapper/ZeldaArmorMapper.class

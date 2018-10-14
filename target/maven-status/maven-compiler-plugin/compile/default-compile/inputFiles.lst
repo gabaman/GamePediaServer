@@ -8,6 +8,7 @@
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/controller/GameContentController.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/service/impl/GameContentServiceImpl.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/dao/ElasticSearchDao.java
+/Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/spring/config/FilterConfig.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/model/ConsoleUpdater.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/controller/ConsoleController.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/model/ZeldaArmor.java
@@ -26,6 +27,7 @@
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/mapper/GameContentMapper.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/mapper/GameMapper.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/utils/COSClientUtil.java
+/Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/filter/RestFilter.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/model/GameDetail.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/model/Game.java
 /Users/kai/GamePediaServer/src/main/java/com/stan/gamepedia/model/GameContent.java

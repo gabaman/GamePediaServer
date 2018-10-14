@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ESTest" time="0.662" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="ESTest" time="0.604" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2017.3.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -69,5 +69,5 @@
     <property name="ftp.nonProxyHosts" value="127.0.0.1|localhost|*.localhost"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="test" classname="ESTest" time="0.662"/>
+  <testcase name="test" classname="ESTest" time="0.604"/>
 </testsuite>
